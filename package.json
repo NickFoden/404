@@ -2,7 +2,7 @@
   "name": "404",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.ts",
     "p-format": "prisma format",
